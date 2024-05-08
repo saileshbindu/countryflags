@@ -1,8 +1,8 @@
-import Xstopwatch from './xstopwatch';
+import Countriesflags from './Countriesflags';
 function App() {
   return (
     <div className="App">
-    <Xstopwatch />
+    <Countriesflags />
     </div>
   );
 }
